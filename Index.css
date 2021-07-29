@@ -1,0 +1,36 @@
+
+.red
+{border:2px solid black;
+    margin: 2px;
+    color: yellow;
+    background-color:red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+}
+.white
+{border:2px solid black;
+    margin: 2px;
+    color: gray;
+    background-color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+}
+.blue
+{border:2px solid black;
+    margin: 2px;
+    color: red;
+    background-color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.background1
+{
+    background-color: aqua;
+    color:black;
+    width: 50%;
+    height: 100px;
+}
+#id
+{
+    color: chocolate;
+}
